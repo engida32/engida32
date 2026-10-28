@@ -8,8 +8,11 @@ I build the control plane around AI agents: release, deployment, evaluation, and
 
 ## Selected work
 
+**Agent Workflow Kit**
+[GitHub](https://github.com/engida32/agent-workflow-kit): a resumable, provider-neutral workflow for long tasks. State on disk, an independent checker decides when the work is done, and a run resumes from the same stage after a provider failure.
+
 **AI agent platform and evaluation**
-[Case studies](https://engida32.github.io/engida/): release control, task assertions, rubric scoring, and judge-based review for browser agent environments.
+[Case studies](https://engida.devs.et/): release control, task assertions, rubric scoring, and judge-based review for browser agent environments.
 
 **Pocket Approve**
 [GitHub](https://github.com/engida32/pocket-approve): approve coding-agent permission prompts from a phone or desktop. Self-hosted and local-first.
